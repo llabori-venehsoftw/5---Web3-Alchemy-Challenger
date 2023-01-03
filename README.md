@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# 5th WEB3 Alchemy Challenger (Hardhat Project)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This repository contains all the folders/files that have been adapted/developed to meet the requirements of the Fifth Alchemy Unuversity challenge for the WEB3.0 RoadMap. You can find the description of the development in the respective Readme files in both English and Spanish.
 
 Try running some of the following tasks:
 
